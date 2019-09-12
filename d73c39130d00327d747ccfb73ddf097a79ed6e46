@@ -1,0 +1,1 @@
+{"jobID":"d77dc116-0455-caf9-6aba-8b2766ba29ce","spec":{"type":"policy","cause":{"Message":"","User":"jwenz723 \u003cjwenz723@gmail.com\u003e"},"spec":{"default:deployment/demohttp-backend":{"add":{"automated":"true"},"remove":{}}}},"result":null}
