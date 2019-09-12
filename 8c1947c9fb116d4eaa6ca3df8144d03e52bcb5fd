@@ -1,0 +1,1 @@
+{"jobID":"71c70b28-5e33-f968-de00-7d0f2245e5dd","spec":{"type":"policy","cause":{"Message":"","User":"jwenz723 \u003cjwenz723@gmail.com\u003e"},"spec":{"default:deployment/flux-backend":{"add":{"automated":"true"},"remove":{}}}},"result":null}
