@@ -5,7 +5,7 @@ metadata:
   name: demohttp-backend
   labels:
     app: demohttp-backend
-    jeff: test6
+    jeff: test7
 spec:
   ports:
   - port: 8080
